@@ -1,2 +1,2 @@
 # Skill-Bar-Dynamic
-Dynamic Skill Bar Template Using HTML and CSS
+Dynamic Skill Bar Template Using HTML,CSS and Javascript
